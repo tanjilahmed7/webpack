@@ -1,1 +1,4 @@
-Install npm run watch
+Install 
+-------------------------------
+npm install
+npm run watch
